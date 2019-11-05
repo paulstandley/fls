@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+header > h1 {
+	color: rgb(2, 83, 73);
+	font-size: 1.2rem;
+}
+
 ol, ul {
 	list-style: none;
 }
