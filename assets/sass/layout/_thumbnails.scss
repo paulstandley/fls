@@ -28,6 +28,10 @@
 					display: block;
 					width: 100%;
 				}
+				
+				a {
+					transform: rotate(180deg);
+				}
 
 				&:before {
 					@include vendor('pointer-events', 'none');
