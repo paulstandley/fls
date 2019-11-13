@@ -44,3 +44,9 @@
 	@import 'layout/footer';
 	@import 'layout/thumbnails';
 	@import 'layout/viewer';
+
+// Rotate images
+
+.rotate {
+	transform: rotate(180deg) !important;
+}
