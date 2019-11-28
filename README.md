@@ -8,17 +8,4 @@
 
 [Live link](https://medinabazra.netlify.com/)
 
----
-
-## Bash
-
-```BASH
-
-npx create-react-app medinabazar
-npm install node-sass -S
-
-```
-
-dead **:-(**
-
 [react env](https://create-react-app.dev/docs/adding-custom-environment-variables)
